@@ -5,6 +5,8 @@ var name, salad;
 
 salad = dave;
 
+name = window.prompt( "What is your name?" );
+
 if(name == dave)
 {
   window.alert( "All hale Dave, owner of the mighty salad! Long live Dave!");
